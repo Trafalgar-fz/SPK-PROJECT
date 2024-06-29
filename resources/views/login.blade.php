@@ -56,7 +56,7 @@
                         <div class="app-brand justify-content-center">
                             <a href="index.html" class="app-brand-link gap-2">
             
-                                <span class="app-brand-text demo text-body fw-bolder">SPK</span>
+                                <span class="app-brand-text demo text-body fw-bolder">LOGIN</span>
                             </a>
                         </div>
                         <!-- /Logo -->

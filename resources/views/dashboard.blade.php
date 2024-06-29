@@ -10,7 +10,7 @@
     @endif
 
     <div style="text-align: center;">
-        <h1> Selamat Datang</h1>
+        <h1 class="mt-2">Dashboard</h1>
     </div>
     <div class="container-xxl flex-grow-1 container-p-y">
         <div class="row">
